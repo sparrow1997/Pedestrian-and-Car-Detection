@@ -1,1 +1,10 @@
-# Passenger-and-Car-Detection
+# Pedestrian-and-Car-Detection
+
+## It is based upon the concept of Haar Cascade.
+
+## Haar Cascade :
+###  Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
+
+## Novelity:
+### This project can be used to idemtify the pedestrian and car density on a running road at a partiular time , which can be put under check if exceeding an acceptable threshold value.
+### Even the ratio of vehicles to pedestrians can be used in determining the number of lanes to be dedicated to vehicles and footpath in that area.
